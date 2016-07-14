@@ -1,0 +1,501 @@
+.topbox{
+    width:100%;
+    height:4.2rem;
+    background: rgba(0,0,0,0.6);
+}
+.topleft{
+    width:4.2rem;
+    height:100%;
+    text-align: center;
+    line-height: 4.2rem;
+    float: left;
+}
+.topleft img{
+    width:1.3rem;
+    height:1.3rem;
+}
+.logo{
+    width:3.5rem;
+    height:3.5rem;
+    margin-top:0.4rem;
+    float: left;
+}
+.logo img{
+    width:100%;
+    height:100%;
+}
+.topnr{
+    float: left;
+    margin: .5rem 0 0 .8rem;
+    color: #fff;
+}
+.topnr1{
+    font-size: 1.4rem;
+}
+.topnr2{
+    font-size: 1.2rem;
+}
+.swiper-slide a img{
+    width:100%;
+    height:auto;
+    display: block;
+}
+.tubiao{
+    width:100%;
+    height:auto;
+    overflow: hidden;
+    background: #fff;
+    padding: 1.5rem 0;
+    border-bottom: .1rem solid #eaeaea;
+}
+.tb{
+    width:20%;
+    height:auto;
+    overflow: hidden;
+    float: left;
+}
+.tubiao .tb .tu{
+    width:5rem;
+    height:5rem;
+    margin: 0 auto;
+}
+.tubiao .tb .tu img{
+    width:100%;
+    height:100%;
+}
+.tubiao .tb .wen{
+    width:100%;
+    text-align: center;
+    font-size:1.5rem;
+    margin-top: 0.7rem;
+}
+.ggbox{
+    background: #fff;
+    padding: 1.2rem 1.5rem;
+}
+.ggleft{
+    border-right: .1rem solid #e1e1e1;
+    float: left;
+    font-size: 1.2rem;
+    height: 1.6rem;
+    padding-right: 0.5rem;
+    color: black;
+}
+.ggleft img{
+    font-size: 1.2rem;
+    height: 1.6rem;
+    overflow: hidden;
+    width: 6.3rem;
+}
+.ggright{
+    height:16px;
+    line-height: 16px;
+    overflow: hidden;
+    position: relative;
+}
+.ggnrbox{
+    width:100%;
+    height:auto;
+    overflow: hidden;
+    font-size: 1.3rem;
+    color:#666;
+    margin-left:5px;
+    position: absolute;
+}
+.ggnrbox a{
+    display: block;
+    width:100%;
+    height:16px;
+    overflow: hidden;
+}
+.ggnrbox a span:first-child{
+    color:#f66;
+    font-weight: 500;
+}
+.zsqbox{
+    margin-top: 10px;
+    padding:0 1.5rem;
+    height:3.8rem;
+    line-height: 3.8rem;
+}
+.zsq{
+    height:100%;
+    font-size: 1.5rem;
+    color:#f55;
+    float: left;
+}
+.daojishi{
+    font-size: 1.2rem;
+    margin-left:0.8rem;
+    color:#222;
+    float: left;
+}
+.daojishi i{
+    height:1.2rem;
+    border: 0.1rem solid #aaa;
+    font-style: normal;
+    font-size: 1.2rem;
+    margin: 0 0.3rem;
+    padding: 0 0.3rem;
+}
+.zsqbox a{
+    font-size: 1.4rem;
+    color:#222;
+    float: right;
+}
+.ttms{
+    width:100%;
+}
+.ttms img{
+    display: block;
+    width:100%;
+    height:auto;
+    overflow: hidden;
+}
+.mxdp{
+    width:100%;
+    height:3.5rem;
+    color: #666;
+    display: block;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 3.5rem;
+    text-align: center;
+}
+.twlb{
+    width:100%;
+    height:auto;
+    overflow: hidden;
+}
+.tuwen{
+    width:50%;
+    border-right: .1rem solid #f1f1f1;
+    background: #fff;
+    border-top: .1rem solid #f1f1f1;
+    padding: 1.5rem 0 .7rem;
+    text-align: center;
+    float: left;
+    box-sizing: border-box;
+}
+.tuwen a{
+    width:100%;
+    height:100%;
+}
+.tuwen a div:first-child{
+    border: .1rem solid #e1e1e1;
+    border-radius: 2.0rem;
+    display: inline-block;
+    margin: 0 2.0rem;
+    overflow: hidden;
+    padding: .3rem .9rem .3rem .4rem;
+    vertical-align: middle;
+}
+.tuwen a div:first-child img{
+    float: left;
+    height: 1.7rem;
+    overflow: hidden;
+    width: 1.7rem;
+}
+.tuwen a div:first-child span{
+    color: #222;
+    float: left;
+    font-style: normal;
+    font-size: 1.3rem;
+    height: 1.7rem;
+    line-height: 1.7rem;
+    margin-left: .5rem;
+}
+.tuwen a div:nth-child(2){
+    display: block;
+    margin: .7rem 1.0rem 0;
+    position: relative;
+    text-align: center;
+}
+.tuwen a div:nth-child(2) img{
+    height: 15.0rem;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 15.0rem;
+}
+.tuwen a div:nth-child(3){
+    color: #555;
+    display: block;
+    font-size: 1.3rem;
+    height: 1.6rem;
+    line-height: 1.6rem;
+    margin: .7rem .8rem 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.tuwen a div:last-child{
+    color: #f55;
+    display: block;
+    font-size: 1.4rem;
+    margin: .5rem .8rem 0;
+    text-align: center;
+}
+.tuwen a div:last-child{
+    color: #f55;
+    display: block;
+    font-size: 1.4rem;
+    margin: .5rem .8rem 0;
+    text-align: center;
+}
+.tuwen a div:last-child span{
+    font-size: 1.1rem;
+}
+.tuwen a div:last-child i{
+    color: #aaa;
+    font-size: 1.0rem;
+    font-style: normal;
+    text-decoration: line-through;
+}
+.tuwen a div:last-child i b{
+    font-size: 1.1rem;
+}
+.tuwen a div:last-child div{
+    background: #f66;
+    border-radius: .1rem;
+    color: #fff;
+    display: inline-block;
+    font-size: 1.0rem;
+    margin-left: .5rem;
+    padding-top: .1rem;
+    padding-right: .2rem;
+    padding-left: .2rem;
+    text-indent: 0;
+    vertical-align: middle;
+}
+.xpbox{
+    width:100%;
+    height:auto;
+    overflow: hidden;
+}
+.xp{
+    background: #fff;
+    margin-bottom: 1.0rem;
+}
+.xp a{
+    width:100%;
+    height:100%;
+}
+.xp a div:first-child{
+    position: relative;
+}
+.xp a div img{
+    width:100%;
+    height:auto;
+}
+.xp a div:first-child~div{
+    padding: 0 0 0 20px;
+}
+.xp a div i{
+    background: rgba(0,0,0,0.4);
+    bottom: 2.0rem;
+    color: #fff;
+    display: block;
+    font-size: 1.4rem;
+    font-style: normal;
+    height: 2.7rem;
+    line-height: 2.7rem;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    width: 5.4rem;
+}
+.xptitle{
+    color: #222;
+    font-size: 1.4rem;
+    margin-top: 1.2rem;
+}
+.xp a div:last-child{
+    color: #999;
+    font-size: 1.2rem;
+    height: 1.5rem;
+    line-height: 1.5rem;
+    margin-top: .6rem;
+    overflow: hidden;
+    padding-bottom: 1.4rem;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.shoujibox{
+    width:100%;
+    height:auto;
+    overflow: hidden;
+}
+.shoujibox .datu img{
+    width:100%;
+    height:auto;
+    display: block;
+}
+.shoujibox div:first-child~div{
+    width:50%;
+    height:auto;
+    overflow: hidden;
+    border-right: .1rem solid #f1f1f1;
+    border-bottom: .1rem solid #eaeaea;
+    box-sizing: border-box;
+    background: #fff;
+    float: left;
+    padding:1.5rem 0 .7rem;
+}
+.shoujibox div:first-child~div a{
+    width:100%;
+    height:100%;
+}
+.shoujibox div:first-child~div a div{
+    margin: .7rem 1.0rem 0;
+    position: relative;
+    text-align: center
+}
+.shoujibox div:first-child~div a div img{
+    height: 15.0rem;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 15.0rem;
+}
+.shoujibox div:first-child~div a .title{
+    color: #555;
+    display: block;
+    font-size: 1.3rem;
+    height: 1.6rem;
+    line-height: 1.6rem;
+    margin: .7rem .8rem 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.shoujibox div:first-child~div a p{
+    color: #999;
+    font-size: 1.2rem;
+    height: 1.4rem;
+    line-height: 1.4rem;
+    margin: .4rem .8rem 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.shoujibox div:first-child~div a span{
+    color: #f55;
+    display: block;
+    font-size: 1.4rem;
+    margin: .5rem .8rem 0;
+}
+.shoujibox div:first-child~div a span b{
+    font-size: 1.1rem;
+}
+.footer{
+    background: #fff;
+    color: #5c5c5c;
+    font-size: 1.4rem;
+    line-height: 3em;
+    text-align: center;
+    margin-bottom: 5.3rem;
+}
+.footer .ftop{
+    width:100%;
+    height:auto;
+    overflow: hidden;
+    padding: 1.3rem 0;
+    box-sizing: border-box;
+    border-top:0.1rem solid #ccc;
+    border-bottom: solid 0.1rem #d6d6d6;
+}
+.footer .ftop .fnr{
+    width:33.3%;
+    border-right: solid .1rem #d6d6d6;
+    color: #666;
+    font-size: 1.1rem;
+    box-sizing: border-box;
+    float: left;
+}
+.footer .ftop .fnr span{
+    border: .1rem solid #aaa;
+    border-radius: 5.0rem;
+    color: #666;
+    display: block;
+    font-size: 1.2rem;
+    height: 3.1rem;
+    line-height: 3.1rem;
+    margin: 0 auto;
+    width: 3.1rem;
+}
+.footer .ftop .fnr p{
+    display: block;
+    height: 1.2rem;
+    line-height: 1.2rem;
+    margin-top: .7rem;
+}
+.footer .fbottom{
+    font-size: 1.0rem;
+    line-height: 3rem;
+}
+.footer .fbottom p{
+    height:auto;
+    overflow: hidden;
+}
+.fhdb{
+    background: url(../images/t01f5f76d46b615eb46.png) no-repeat;
+    background-size: 34px 34px;
+    background-position: 0 0;
+    bottom: 80px;
+    display: inline-block;
+    height: 34px;
+    position: fixed;
+    right: 0;
+    width: 34px;
+    z-index: 9999;
+}
+.nav{
+    background: #fff;
+    border-top: .1rem solid #d0d0d0;
+    border-bottom: .1rem solid #d0d0d0;
+    bottom: 0;
+    height: 5.3rem;
+    left: 0;
+    padding: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 111;
+}
+.nav .navbox{
+    width:100%;
+    height:100%;
+}
+.nav .navbox .navnr{
+    width:25%;
+    height:100%;
+    float: left;
+    text-align: center;
+}
+.nav .navbox .navnr div:first-child{
+    height: 3.3rem;
+    margin: 0 auto;
+    width: 5.0rem;
+}
+.nav .navbox .navnr div:last-child{
+    color: #555;
+    display: block;
+    font-size: 1.0rem;
+}
+.nav .navbox .navnr:first-child div:last-child{
+    color:#19a243;
+}
+.nav .navbox .navnr:first-child div:first-child{
+    background: url(../images/t011a7cd356bb976213.png) no-repeat;
+    background-size: 5.0rem 3.3rem;
+}
+.nav .navbox .navnr:nth-child(2) div:first-child{
+    background: url(../images/t01e287c3490e3f14da.png) no-repeat;
+    background-size: 5.0rem 3.3rem;
+}
+.nav .navbox .navnr:nth-child(3) div:first-child{
+    background: url(../images/t01069055004f2dcc51.png) no-repeat;
+    background-size: 5.0rem 3.3rem;
+}
+.nav .navbox .navnr:last-child div:first-child{
+    background: url(../images/t01821a03716758d2e1.png) no-repeat;
+    background-size: 5.0rem 3.3rem;
+}
